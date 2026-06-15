@@ -1,2 +1,2 @@
 # hello-world
-this is for a course
+Hello, my name is Connor
